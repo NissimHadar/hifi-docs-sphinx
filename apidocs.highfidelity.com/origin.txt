@@ -1,0 +1,404 @@
+Uri: https://apidocs.highfidelity.com/
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\index.htm
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/styles/prettify.css
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\styles\prettify.css
+Content Type: text/css
+
+Uri: https://apidocs.highfidelity.com/styles/jsdoc.css
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\styles\jsdoc.css
+Content Type: text/css
+
+Uri: https://apidocs.highfidelity.com/index.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\index.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/AccountServices.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\AccountServices.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Agent.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Agent.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/AnimationCache.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\AnimationCache.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Assets.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Assets.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Audio.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Audio.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/AudioStats.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\AudioStats.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Avatar.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Avatar.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/AvatarBookmarks.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\AvatarBookmarks.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/AvatarInputs.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\AvatarInputs.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/AvatarList.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\AvatarList.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/AvatarManager.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\AvatarManager.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Camera.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Camera.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Clipboard.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Clipboard.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Controller.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Controller.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/DebugDraw.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\DebugDraw.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Desktop.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Desktop.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Entities.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Entities.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/EntityViewer.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\EntityViewer.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/File.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\File.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/GooglePoly.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\GooglePoly.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Graphics.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Graphics.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/HifiAbout.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\HifiAbout.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/HMD.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\HMD.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Keyboard.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Keyboard.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/LaserPointers.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\LaserPointers.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/location.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\location.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/LocationBookmarks.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\LocationBookmarks.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/LODManager.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\LODManager.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Mat4.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Mat4.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Menu.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Menu.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Messages.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Messages.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Midi.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Midi.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/ModelCache.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\ModelCache.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/MyAvatar.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\MyAvatar.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/OffscreenFlags.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\OffscreenFlags.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Overlays.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Overlays.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Paths.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Paths.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Picks.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Picks.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/PickType.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\PickType.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/PlatformInfo.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\PlatformInfo.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Pointers.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Pointers.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Quat.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Quat.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/RayPick.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\RayPick.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Recording.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Recording.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Render.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Render.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Resource.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Resource.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/ResourceRequestObserver.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\ResourceRequestObserver.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Resources.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Resources.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Reticle.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Reticle.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Scene.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Scene.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Script.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Script.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/ScriptDiscoveryService.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\ScriptDiscoveryService.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Selection.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Selection.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Settings.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Settings.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Snapshot.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Snapshot.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/SoundCache.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\SoundCache.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/SpeechRecognizer.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\SpeechRecognizer.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Stats.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Stats.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Steam.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Steam.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Tablet.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Tablet.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/tabletInterface.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\tabletInterface.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/TextureCache.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\TextureCache.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Toolbars.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Toolbars.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Users.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Users.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Uuid.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Uuid.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Vec3.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Vec3.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/WalletScriptingInterface.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\WalletScriptingInterface.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Window.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Window.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/Workload.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\Workload.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/AnimationFrameObject.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\AnimationFrameObject.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/AnimationObject.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\AnimationObject.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/AudioEffectOptions.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\AudioEffectOptions.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/AudioInjector.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\AudioInjector.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/AudioStats.AudioStreamStats.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\AudioStats.AudioStreamStats.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/InteractiveWindow.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\InteractiveWindow.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/MappingObject.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\MappingObject.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/MeshProxy.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\MeshProxy.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/OverlayWebWindow.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\OverlayWebWindow.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/OverlayWindow.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\OverlayWindow.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/ResourceObject.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\ResourceObject.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/RouteObject.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\RouteObject.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/ScriptsModel.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\ScriptsModel.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/ScriptsModelFilter.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\ScriptsModelFilter.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/SoundObject.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\SoundObject.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/TabletButtonProxy.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\TabletButtonProxy.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/TabletProxy.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\TabletProxy.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/ToolbarProxy.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\ToolbarProxy.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/global.html
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\global.html
+Content Type: text/html
+
+Uri: https://apidocs.highfidelity.com/scripts/prettify/prettify.js
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\scripts\prettify\prettify.js
+Content Type: application/javascript
+
+Uri: https://apidocs.highfidelity.com/scripts/prettify/lang-css.js
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\scripts\prettify\lang-css.js
+Content Type: application/javascript
+
+Uri: https://apidocs.highfidelity.com/images/white-logo.png
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\images\white-logo.png
+Content Type: image/png
+
+Uri: https://apidocs.highfidelity.com/scripts/linenumber.js
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\scripts\linenumber.js
+Content Type: application/javascript
+
+Uri: https://apidocs.highfidelity.com/scripts/jquery-3.1.1.min.js
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\scripts\jquery-3.1.1.min.js
+Content Type: application/javascript
+
+Uri: https://apidocs.highfidelity.com/scripts/search.js
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\scripts\search.js
+Content Type: application/javascript
+
+Uri: https://apidocs.highfidelity.com/scripts/collapse.js
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\scripts\collapse.js
+Content Type: application/javascript
+
+Uri: https://apidocs.highfidelity.com/fonts/Graphik-Regular.otf
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\fonts\Graphik-Regular.otf
+Content Type: font/otf
+
+Uri: https://apidocs.highfidelity.com/fonts/proximanova-regular.otf
+File Name: D:\GitHub\hifi-docs-sphinx\apidocs.highfidelity.com\fonts\proximanova-regular.otf
+Content Type: font/otf
+
